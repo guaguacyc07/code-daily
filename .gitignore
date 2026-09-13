@@ -4,3 +4,8 @@ Python-code/Python刷题常用API/大纲.md
 
 # 题解模板，仅本地参考，不提交
 /题解模板.md
+
+# 22~100 题解骨架（仅本地占位，写好一题后收窄/删掉对应规则，或用 git add -f 强制加入）
+java-code/java-hot100/2[2-9]. *.md
+java-code/java-hot100/[3-9][0-9]. *.md
+java-code/java-hot100/100. *.md

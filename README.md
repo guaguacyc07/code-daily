@@ -56,6 +56,7 @@
   - **[18. Set Matrix Zeroes（矩阵置零）](java-code/java-hot100/18.%20Set%20Matrix%20Zeroes.md)**
   - **[19. Spiral Matrix（螺旋矩阵）](java-code/java-hot100/19.%20Spiral%20Matrix.md)**
   - **[20. Rotate Image（旋转图像）](java-code/java-hot100/20.%20Rotate%20Image.md)**
+  - **[21. Search a 2D Matrix II（搜索二维矩阵 II）](java-code/java-hot100/21.%20Search%20a%202D%20Matrix%20II.md)**
 
 ### 1.3 java-牛客
 
