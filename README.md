@@ -57,6 +57,8 @@
   - **[19. Spiral Matrix（螺旋矩阵）](java-code/java-hot100/19.%20Spiral%20Matrix.md)**
   - **[20. Rotate Image（旋转图像）](java-code/java-hot100/20.%20Rotate%20Image.md)**
   - **[21. Search a 2D Matrix II（搜索二维矩阵 II）](java-code/java-hot100/21.%20Search%20a%202D%20Matrix%20II.md)**
+- **链表**
+  - **[22. Intersection of Two Linked Lists（相交链表）](java-code/java-hot100/22.%20Intersection%20of%20Two%20Linked%20Lists.md)**
 
 ### 1.3 java-牛客
 
