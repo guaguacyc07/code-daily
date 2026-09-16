@@ -15,7 +15,7 @@
   - 📃 [**List（ArrayList / LinkedList）**](java-code/java刷题常用API/List常用API.md)
   - 🗺️ **[Map（HashMap / LinkedHashMap / TreeMap）](java-code/java刷题常用API/Map常用API.md)**
   - 🎯 [**Set（HashSet / LinkedHashSet / TreeSet）**](java-code/java刷题常用API/Set常用API.md)
-  - 🥞 **Stack（栈）**
+  - 🥞 [**Stack（栈）**](java-code/java刷题常用API/Stack常用API.md)
   - ↔️ [**Queue / Deque（队列与双端队列）**](java-code/java刷题常用API/Queue常用API.md)
   - ⛰️ [**PriorityQueue（优先队列 / 堆）**](java-code/java刷题常用API/PriorityQueue常用API.md)
   - 🔤 **String / StringBuilder**
@@ -60,6 +60,7 @@
 - **链表**
   - **[22. Intersection of Two Linked Lists（相交链表）](java-code/java-hot100/22.%20Intersection%20of%20Two%20Linked%20Lists.md)**
   - **[23. Reverse Linked List（反转链表）](java-code/java-hot100/23.%20Reverse%20Linked%20List.md)**
+  - **[24. Palindrome Linked List（回文链表）](java-code/java-hot100/24.%20Palindrome%20Linked%20List.md)**
 
 ### 1.3 java-牛客
 
