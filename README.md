@@ -61,6 +61,7 @@
   - **[22. Intersection of Two Linked Lists（相交链表）](java-code/java-hot100/22.%20Intersection%20of%20Two%20Linked%20Lists.md)**
   - **[23. Reverse Linked List（反转链表）](java-code/java-hot100/23.%20Reverse%20Linked%20List.md)**
   - **[24. Palindrome Linked List（回文链表）](java-code/java-hot100/24.%20Palindrome%20Linked%20List.md)**
+  - **[25. Linked List Cycle（环形链表）](java-code/java-hot100/25.%20Linked%20List%20Cycle.md)**
 
 ### 1.3 java-牛客
 
