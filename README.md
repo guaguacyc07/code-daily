@@ -63,6 +63,7 @@
   - **[24. Palindrome Linked List（回文链表）](java-code/java-hot100/24.%20Palindrome%20Linked%20List.md)**
   - **[25. Linked List Cycle（环形链表）](java-code/java-hot100/25.%20Linked%20List%20Cycle.md)**
   - **[26. Linked List Cycle II（环形链表 II）](java-code/java-hot100/26.%20Linked%20List%20Cycle%20II.md)**
+  - **[27. Merge Two Sorted Lists（合并两个有序链表）](java-code/java-hot100/27.%20Merge%20Two%20Sorted%20Lists.md)**
 
 ### 1.3 java-牛客
 
