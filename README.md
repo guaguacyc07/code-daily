@@ -65,6 +65,7 @@
   - **[26. Linked List Cycle II（环形链表 II）](java-code/java-hot100/26.%20Linked%20List%20Cycle%20II.md)**
   - **[27. Merge Two Sorted Lists（合并两个有序链表）](java-code/java-hot100/27.%20Merge%20Two%20Sorted%20Lists.md)**
   - **[28. Add Two Numbers（两数相加）](java-code/java-hot100/28.%20Add%20Two%20Numbers.md)**
+  - **[29. Remove Nth Node From End of List（删除链表的倒数第 N 个结点）](java-code/java-hot100/29.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)**
 
 ### 1.3 java-牛客
 
