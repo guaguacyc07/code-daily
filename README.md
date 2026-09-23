@@ -67,6 +67,7 @@
   - **[28. Add Two Numbers（两数相加）](java-code/java-hot100/28.%20Add%20Two%20Numbers.md)**
   - **[29. Remove Nth Node From End of List（删除链表的倒数第 N 个结点）](java-code/java-hot100/29.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)**
   - **[30. Swap Nodes in Pairs（两两交换链表中的节点）](java-code/java-hot100/30.%20Swap%20Nodes%20in%20Pairs.md)**
+  - **[31. Reverse Nodes in k-Group（K 个一组翻转链表）](java-code/java-hot100/31.%20Reverse%20Nodes%20in%20k-Group.md)**
 
 ### 1.3 java-牛客
 
