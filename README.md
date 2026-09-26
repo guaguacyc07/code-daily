@@ -70,6 +70,7 @@
   - **[31. Reverse Nodes in k-Group（K 个一组翻转链表）](java-code/java-hot100/31.%20Reverse%20Nodes%20in%20k-Group.md)**
   - **[32. Copy List with Random Pointer（随机链表的复制）](java-code/java-hot100/32.%20Copy%20List%20with%20Random%20Pointer.md)**
   - **[33. Sort List（排序链表）](java-code/java-hot100/33.%20Sort%20List.md)**
+  - **[34. Merge k Sorted Lists（合并 K 个升序链表）](java-code/java-hot100/34.%20Merge%20k%20Sorted%20Lists.md)**
 
 ### 1.3 java-牛客
 
