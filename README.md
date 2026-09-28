@@ -72,6 +72,8 @@
   - **[33. Sort List（排序链表）](java-code/java-hot100/33.%20Sort%20List.md)**
   - **[34. Merge k Sorted Lists（合并 K 个升序链表）](java-code/java-hot100/34.%20Merge%20k%20Sorted%20Lists.md)**
   - **[35. LRU Cache（LRU 缓存）](java-code/java-hot100/35.%20LRU%20Cache.md)**
+- **二叉树**
+  - **[36. Binary Tree Inorder Traversal（二叉树的中序遍历）](java-code/java-hot100/36.%20Binary%20Tree%20Inorder%20Traversal.md)**
 
 ### 1.3 java-牛客
 
