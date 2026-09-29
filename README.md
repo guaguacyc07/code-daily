@@ -74,6 +74,7 @@
   - **[35. LRU Cache（LRU 缓存）](java-code/java-hot100/35.%20LRU%20Cache.md)**
 - **二叉树**
   - **[36. Binary Tree Inorder Traversal（二叉树的中序遍历）](java-code/java-hot100/36.%20Binary%20Tree%20Inorder%20Traversal.md)**
+  - **[37. Maximum Depth of Binary Tree（二叉树的最大深度）](java-code/java-hot100/37.%20Maximum%20Depth%20of%20Binary%20Tree.md)**
 
 ### 1.3 java-牛客
 
