@@ -79,6 +79,7 @@
   - **[39. Symmetric Tree（对称二叉树）](java-code/java-hot100/39.%20Symmetric%20Tree.md)**
   - **[40. Diameter of Binary Tree（二叉树的直径）](java-code/java-hot100/40.%20Diameter%20of%20Binary%20Tree.md)**
   - **[41. Binary Tree Level Order Traversal（二叉树的层序遍历）](java-code/java-hot100/41.%20Binary%20Tree%20Level%20Order%20Traversal.md)**
+  - **[42. Convert Sorted Array to Binary Search Tree（将有序数组转换为二叉搜索树）](java-code/java-hot100/42.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)**
 
 ### 1.3 java-牛客
 
