@@ -83,6 +83,7 @@
   - **[43. Validate Binary Search Tree（验证二叉搜索树）](java-code/java-hot100/43.%20Validate%20Binary%20Search%20Tree.md)**
   - **[44. Kth Smallest Element in a BST（二叉搜索树中第K小的元素）](java-code/java-hot100/44.%20Kth%20Smallest%20Element%20in%20a%20BST.md)**
   - **[45. Binary Tree Right Side View（二叉树的右视图）](java-code/java-hot100/45.%20Binary%20Tree%20Right%20Side%20View.md)**
+  - **[46. Flatten Binary Tree to Linked List（二叉树展开为链表）](java-code/java-hot100/46.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)**
 
 ### 1.3 java-牛客
 
