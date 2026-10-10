@@ -84,6 +84,7 @@
   - **[44. Kth Smallest Element in a BST（二叉搜索树中第K小的元素）](java-code/java-hot100/44.%20Kth%20Smallest%20Element%20in%20a%20BST.md)**
   - **[45. Binary Tree Right Side View（二叉树的右视图）](java-code/java-hot100/45.%20Binary%20Tree%20Right%20Side%20View.md)**
   - **[46. Flatten Binary Tree to Linked List（二叉树展开为链表）](java-code/java-hot100/46.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)**
+  - **[47. Construct Binary Tree from Preorder and Inorder Traversal（从前序与中序遍历序列构造二叉树）](java-code/java-hot100/47.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)**
 
 ### 1.3 java-牛客
 
