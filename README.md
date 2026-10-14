@@ -88,6 +88,8 @@
   - **[48. Path Sum III（路径总和 III）](java-code/java-hot100/48.%20Path%20Sum%20III.md)**
   - **[49. Lowest Common Ancestor of a Binary Tree（二叉树的最近公共祖先）](java-code/java-hot100/49.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)**
   - **[50. Binary Tree Maximum Path Sum（二叉树中的最大路径和）](java-code/java-hot100/50.%20Binary%20Tree%20Maximum%20Path%20Sum.md)**
+- **图论**
+  - **[51. Number of Islands（岛屿数量）](java-code/java-hot100/51.%20Number%20of%20Islands.md)**
 
 ### 1.3 java-牛客
 
