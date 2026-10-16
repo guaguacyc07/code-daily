@@ -91,6 +91,7 @@
 - **图论**
   - **[51. Number of Islands（岛屿数量）](java-code/java-hot100/51.%20Number%20of%20Islands.md)**
   - **[52. Rotting Oranges（腐烂的橘子）](java-code/java-hot100/52.%20Rotting%20Oranges.md)**
+  - **[53. Course Schedule（课程表）](java-code/java-hot100/53.%20Course%20Schedule.md)**
 
 ### 1.3 java-牛客
 
