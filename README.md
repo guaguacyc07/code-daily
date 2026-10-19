@@ -94,6 +94,8 @@
   - **[53. Course Schedule（课程表）](java-code/java-hot100/53.%20Course%20Schedule.md)**
 - **字典树**
   - **[54. Implement Trie (Prefix Tree)（实现 Trie (前缀树)）](java-code/java-hot100/54.%20Implement%20Trie%20%28Prefix%20Tree%29.md)**
+- **回溯**
+  - **[55. Permutations（全排列）](java-code/java-hot100/55.%20Permutations.md)**
 
 ### 1.3 java-牛客
 
