@@ -18,7 +18,7 @@
   - 🥞 [**Stack（栈）**](java-code/java刷题常用API/Stack常用API.md)
   - ↔️ [**Queue / Deque（队列与双端队列）**](java-code/java刷题常用API/Queue常用API.md)
   - ⛰️ [**PriorityQueue（优先队列 / 堆）**](java-code/java刷题常用API/PriorityQueue常用API.md)
-  - 🔤 **String / StringBuilder**
+  - 🔤 [**String / StringBuilder**](java-code/java刷题常用API/StringBuilder.md)
 - **工具类 🛠️** 
   - 🧰 **Arrays**
   - 🗃️ **Collections**
@@ -96,6 +96,8 @@
   - **[54. Implement Trie (Prefix Tree)（实现 Trie (前缀树)）](java-code/java-hot100/54.%20Implement%20Trie%20%28Prefix%20Tree%29.md)**
 - **回溯**
   - **[55. Permutations（全排列）](java-code/java-hot100/55.%20Permutations.md)**
+  - **[56. Subsets（子集）](java-code/java-hot100/56.%20Subsets.md)**
+  - **[57. Letter Combinations of a Phone Number（电话号码的字母组合）](java-code/java-hot100/57.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)**
 
 ### 1.3 java-牛客
 
