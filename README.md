@@ -98,6 +98,8 @@
   - **[55. Permutations（全排列）](java-code/java-hot100/55.%20Permutations.md)**
   - **[56. Subsets（子集）](java-code/java-hot100/56.%20Subsets.md)**
   - **[57. Letter Combinations of a Phone Number（电话号码的字母组合）](java-code/java-hot100/57.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)**
+  - **[58. Combination Sum（组合总和）](java-code/java-hot100/58.%20Combination%20Sum.md)**
+  - **[59. Generate Parentheses（括号生成）](java-code/java-hot100/59.%20Generate%20Parentheses.md)**
 
 ### 1.3 java-牛客
 
