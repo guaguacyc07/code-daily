@@ -102,6 +102,7 @@
   - **[59. Generate Parentheses（括号生成）](java-code/java-hot100/59.%20Generate%20Parentheses.md)**
   - **[60. Word Search（单词搜索）](java-code/java-hot100/60.%20Word%20Search.md)**
   - **[61. Palindrome Partitioning（分割回文串）](java-code/java-hot100/61.%20Palindrome%20Partitioning.md)**
+  - **[62. N-Queens（N 皇后）](java-code/java-hot100/62.%20N-Queens.md)**
 
 ### 1.3 java-牛客
 
