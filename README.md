@@ -103,6 +103,8 @@
   - **[60. Word Search（单词搜索）](java-code/java-hot100/60.%20Word%20Search.md)**
   - **[61. Palindrome Partitioning（分割回文串）](java-code/java-hot100/61.%20Palindrome%20Partitioning.md)**
   - **[62. N-Queens（N 皇后）](java-code/java-hot100/62.%20N-Queens.md)**
+- **二分查找**
+  - **[63. Search Insert Position（搜索插入位置）](java-code/java-hot100/63.%20Search%20Insert%20Position.md)**
 
 ### 1.3 java-牛客
 
