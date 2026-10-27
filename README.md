@@ -105,6 +105,7 @@
   - **[62. N-Queens（N 皇后）](java-code/java-hot100/62.%20N-Queens.md)**
 - **二分查找**
   - **[63. Search Insert Position（搜索插入位置）](java-code/java-hot100/63.%20Search%20Insert%20Position.md)**
+  - **[64. Search a 2D Matrix（搜索二维矩阵）](java-code/java-hot100/64.%20Search%20a%202D%20Matrix.md)**
 
 ### 1.3 java-牛客
 
