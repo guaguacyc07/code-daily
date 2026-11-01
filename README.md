@@ -109,6 +109,7 @@
   - **[65. Find First and Last Position of Element in Sorted Array（在排序数组中查找元素的第一个和最后一个位置）](java-code/java-hot100/65.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)**
   - **[66. Search in Rotated Sorted Array（搜索旋转排序数组）](java-code/java-hot100/66.%20Search%20in%20Rotated%20Sorted%20Array.md)**
   - **[67. Find Minimum in Rotated Sorted Array（寻找旋转排序数组中的最小值）](java-code/java-hot100/67.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)**
+  - **[68. Median of Two Sorted Arrays（寻找两个正序数组的中位数）](java-code/java-hot100/68.%20Median%20of%20Two%20Sorted%20Arrays.md)**
 
 ### 1.3 java-牛客
 
