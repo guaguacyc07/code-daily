@@ -110,6 +110,8 @@
   - **[66. Search in Rotated Sorted Array（搜索旋转排序数组）](java-code/java-hot100/66.%20Search%20in%20Rotated%20Sorted%20Array.md)**
   - **[67. Find Minimum in Rotated Sorted Array（寻找旋转排序数组中的最小值）](java-code/java-hot100/67.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)**
   - **[68. Median of Two Sorted Arrays（寻找两个正序数组的中位数）](java-code/java-hot100/68.%20Median%20of%20Two%20Sorted%20Arrays.md)**
+- **栈**
+  - **[69. Valid Parentheses（有效的括号）](java-code/java-hot100/69.%20Valid%20Parentheses.md)**
 
 ### 1.3 java-牛客
 
