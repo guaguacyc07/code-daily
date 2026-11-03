@@ -112,6 +112,7 @@
   - **[68. Median of Two Sorted Arrays（寻找两个正序数组的中位数）](java-code/java-hot100/68.%20Median%20of%20Two%20Sorted%20Arrays.md)**
 - **栈**
   - **[69. Valid Parentheses（有效的括号）](java-code/java-hot100/69.%20Valid%20Parentheses.md)**
+  - **[70. Min Stack（最小栈）](java-code/java-hot100/70.%20Min%20Stack.md)**
 
 ### 1.3 java-牛客
 
