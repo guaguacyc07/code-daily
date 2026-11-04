@@ -113,6 +113,7 @@
 - **栈**
   - **[69. Valid Parentheses（有效的括号）](java-code/java-hot100/69.%20Valid%20Parentheses.md)**
   - **[70. Min Stack（最小栈）](java-code/java-hot100/70.%20Min%20Stack.md)**
+  - **[71. Decode String（字符串解码）](java-code/java-hot100/71.%20Decode%20String.md)**
 
 ### 1.3 java-牛客
 
