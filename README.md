@@ -115,6 +115,8 @@
   - **[70. Min Stack（最小栈）](java-code/java-hot100/70.%20Min%20Stack.md)**
   - **[71. Decode String（字符串解码）](java-code/java-hot100/71.%20Decode%20String.md)**
   - **[72. Daily Temperatures（每日温度）](java-code/java-hot100/72.%20Daily%20Temperatures.md)**
+- **堆**
+  - **[74. Kth Largest Element in an Array（数组中的第K个最大元素）](java-code/java-hot100/74.%20Kth%20Largest%20Element%20in%20an%20Array.md)**
 
 ### 1.3 java-牛客
 
