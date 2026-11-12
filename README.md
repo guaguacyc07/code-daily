@@ -121,6 +121,8 @@
   - **[75. Top K Frequent Elements（前 K 个高频元素）](java-code/java-hot100/75.%20Top%20K%20Frequent%20Elements.md)**
 - **贪心**
   - **[77. Best Time to Buy and Sell Stock（买卖股票的最佳时机）](java-code/java-hot100/77.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)**
+- **动态规划**
+  - **[81. Climbing Stairs（爬楼梯）](java-code/java-hot100/81.%20Climbing%20Stairs.md)**
 
 ### 1.3 java-牛客
 
