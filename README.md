@@ -122,6 +122,7 @@
   - **[76. Find Median from Data Stream（数据流的中位数）](java-code/java-hot100/76.%20Find%20Median%20from%20Data%20Stream.md)**
 - **贪心**
   - **[77. Best Time to Buy and Sell Stock（买卖股票的最佳时机）](java-code/java-hot100/77.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)**
+  - **[78. Jump Game（跳跃游戏）](java-code/java-hot100/78.%20Jump%20Game.md)**
 - **动态规划**
   - **[81. Climbing Stairs（爬楼梯）](java-code/java-hot100/81.%20Climbing%20Stairs.md)**
 
