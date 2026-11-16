@@ -124,6 +124,7 @@
   - **[77. Best Time to Buy and Sell Stock（买卖股票的最佳时机）](java-code/java-hot100/77.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)**
   - **[78. Jump Game（跳跃游戏）](java-code/java-hot100/78.%20Jump%20Game.md)**
   - **[79. Jump Game II（跳跃游戏 II）](java-code/java-hot100/79.%20Jump%20Game%20II.md)**
+  - **[80. Partition Labels（划分字母区间）](java-code/java-hot100/80.%20Partition%20Labels.md)**
 - **动态规划**
   - **[81. Climbing Stairs（爬楼梯）](java-code/java-hot100/81.%20Climbing%20Stairs.md)**
 
