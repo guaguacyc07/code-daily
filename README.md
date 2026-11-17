@@ -127,6 +127,7 @@
   - **[80. Partition Labels（划分字母区间）](java-code/java-hot100/80.%20Partition%20Labels.md)**
 - **动态规划**
   - **[81. Climbing Stairs（爬楼梯）](java-code/java-hot100/81.%20Climbing%20Stairs.md)**
+  - **[82. Pascal's Triangle（杨辉三角）](java-code/java-hot100/82.%20Pascal's%20Triangle.md)**
 
 ### 1.3 java-牛客
 
