@@ -130,6 +130,7 @@
   - **[82. Pascal's Triangle（杨辉三角）](java-code/java-hot100/82.%20Pascal's%20Triangle.md)**
   - **[83. House Robber（打家劫舍）](java-code/java-hot100/83.%20House%20Robber.md)**
   - **[84. Perfect Squares（完全平方数）](java-code/java-hot100/84.%20Perfect%20Squares.md)**
+  - **[85. Coin Change（零钱兑换）](java-code/java-hot100/85.%20Coin%20Change.md)**
 
 ### 1.3 java-牛客
 
