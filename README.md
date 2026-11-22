@@ -132,6 +132,7 @@
   - **[84. Perfect Squares（完全平方数）](java-code/java-hot100/84.%20Perfect%20Squares.md)**
   - **[85. Coin Change（零钱兑换）](java-code/java-hot100/85.%20Coin%20Change.md)**
   - **[86. Word Break（单词拆分）](java-code/java-hot100/86.%20Word%20Break.md)**
+  - **[87. Longest Increasing Subsequence（最长递增子序列）](java-code/java-hot100/87.%20Longest%20Increasing%20Subsequence.md)**
 
 ### 1.3 java-牛客
 
