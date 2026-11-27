@@ -135,6 +135,7 @@
   - **[87. Longest Increasing Subsequence（最长递增子序列）](java-code/java-hot100/87.%20Longest%20Increasing%20Subsequence.md)**
   - **[88. Maximum Product Subarray（乘积最大子数组）](java-code/java-hot100/88.%20Maximum%20Product%20Subarray.md)**
   - **[89. Partition Equal Subset Sum（分割等和子集）](java-code/java-hot100/89.%20Partition%20Equal%20Subset%20Sum.md)**
+  - **[90. Longest Valid Parentheses（最长有效括号）](java-code/java-hot100/90.%20Longest%20Valid%20Parentheses.md)**
 - **技巧**
   - **[96. Single Number（只出现一次的数字）](java-code/java-hot100/96.%20Single%20Number.md)**
   - **[97. Majority Element（多数元素）](java-code/java-hot100/97.%20Majority%20Element.md)**
