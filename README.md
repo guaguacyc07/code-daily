@@ -139,6 +139,7 @@
 - **技巧**
   - **[96. Single Number（只出现一次的数字）](java-code/java-hot100/96.%20Single%20Number.md)**
   - **[97. Majority Element（多数元素）](java-code/java-hot100/97.%20Majority%20Element.md)**
+  - **[98. Sort Colors（颜色分类）](java-code/java-hot100/98.%20Sort%20Colors.md)**
 
 ### 1.3 java-牛客
 
